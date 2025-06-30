@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>لحبيبتي ندى</title>
+    <title>إلي حبيبتي ندي</title>
     <style>
         /* -- المتغيرات اللونية لتسهيل التعديل -- */
         :root {
